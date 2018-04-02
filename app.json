@@ -8,6 +8,20 @@
     "version": "0.1.0",
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "packagerOpts": {
+      "assetExts": [
+        "ttf",
+        "woff",
+        "woff2",
+        "otf",
+        "md",
+        "png",
+        "jpg"
+      ]
+    },
+    "assetBundlePatterns": [
+      "assets/**/*"
+    ]
   }
 }
