@@ -1,5 +1,13 @@
 {
   "expo": {
+    "name": "jiku-portal",
+    "description": "Portal for creative projects.",
+    "slug": "jiku-portal",
+    "privacy": "unlisted",
     "sdkVersion": "26.0.0",
+    "version": "0.1.0",
+    "ios": {
+      "supportsTablet": true
+    }
   }
 }
