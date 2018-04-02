@@ -18,6 +18,7 @@
     "expo": "^26.0.0",
     "react": "^16.3.0",
     "react-native": "^0.54.0",
+    "react-router-native": "^4.2.0"
   },
   "devDependencies": {
     "jest-expo": "^26.0.0",
