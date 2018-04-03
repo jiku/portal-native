@@ -15,6 +15,7 @@
     "preset": "jest-expo"
   },
   "dependencies": {
+    "@jiku/portal": "../base/src",
     "expo": "^26.0.0",
     "react": "^16.3.0",
     "react-native": "^0.54.0",
